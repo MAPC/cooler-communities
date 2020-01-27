@@ -1,22 +1,4 @@
-# cooler-communities
+# Cooler Communiites
 Community Event; Carbon Point Survey and Estimator
 
-* Ruby version: 
-  2.5.3
-
-* System dependencies:
-
-* Configuration
-
-* Database creation
-  rails db:create
-
-* Database drop, create, migrate, seed
-  run `rake db:dcms`
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+This app was a prototype to allow residents at community fairs to commit to carbon output lowering activites. It would then allow administrators to keep a tally of all these activities to see how much the community had committed to lowering their carbon output.
